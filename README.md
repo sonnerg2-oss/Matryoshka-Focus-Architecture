@@ -1,6 +1,6 @@
-Markdown
 # 🪆 Matryoshka Focus Architecture for Android TV (Jetpack Compose)
 
+[![Build Status](https://img.shields.io/badge/Build_Status-Passing_%26_Verified-brightgreen?style=flat-square&logo=gradle&logoColor=white)](https://github.com/sonnerg2-oss/Matryoshka-Focus-Architecture)
 [![Platform](https://img.shields.io/badge/Platform-Android%20TV-green.svg)](https://developer.android.com/tv)
 [![Jetpack Compose](https://img.shields.io/badge/Compose%20for%20TV-Material3-blue.svg)](https://developer.android.com/jetpack/compose/tv)
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](LICENSE)
