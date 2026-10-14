@@ -6,7 +6,7 @@ Markdown
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](LICENSE)
 
 > Android TV ve uzaktan kumanda (D-Pad) ortamlarında iç içe geçmiş derin liste yapılarında yaşanan odak kaybını (focus trapping/loss) ve ekran kilitlenmelerini ortadan kaldıran deterministik UI/UX mimarisi.
-
+https://docs.google.com/document/d/1dEOJo5c2OFyJAvZqiK4lxTq-fjHumDOZXLD6_nD3M2E/edit?pli=1&tab=t.0
 ---
 
 ## 🌟 Genel Bakış ve Zihinsel Model (Mental Model)
